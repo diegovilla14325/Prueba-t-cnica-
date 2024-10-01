@@ -1,0 +1,136 @@
+2024-09-30 10:21:25,925 [http-nio-8090-exec-8] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recarga2024-09-30T10:21:25.9259981494828null
+2024-09-30 10:21:26,079 [http-nio-8090-exec-8] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compra2024-09-30T10:21:26.079998149482825
+2024-09-30 10:21:33,284 [http-nio-8090-exec-6] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recarga2024-09-30T10:21:33.2849981494828null
+2024-09-30 10:21:33,289 [http-nio-8090-exec-6] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: 2024-09-30T10:21:33.2899981494828null
+2024-09-30 10:28:35,015 [http-nio-8090-exec-10] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  2024-09-30T10:28:35.015 9981494828
+2024-09-30 10:28:35,047 [http-nio-8090-exec-10] INFO  com.ApplicationTest.Controller.MovistarController - Se realizo la compra del paquete 2024-09-30T10:28:35.047 9981494828 26
+2024-09-30 10:30:51,537 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra 2024-09-30T10:30:51.537 9981494828
+2024-09-30 10:30:51,561 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.ATNTController - Se ha realizado la compra 2024-09-30T10:30:51.561 9981494828 27
+2024-09-30 10:30:56,565 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra 2024-09-30T10:30:56.565 9981494828
+2024-09-30 10:30:56,569 [http-nio-8090-exec-4] ERROR com.ApplicationTest.Controller.ATNTController - No se puedo realizar la compra 2024-09-30T10:30:56.569 9981494828
+2024-09-30 10:32:19,124 [http-nio-8090-exec-5] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 10:32:27,524 [http-nio-8090-exec-9] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 10:33:15,751 [http-nio-8090-exec-10] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra 2024-09-30T10:33:15.751 9981494829
+2024-09-30 10:33:15,775 [http-nio-8090-exec-10] INFO  com.ApplicationTest.Controller.ATNTController - Se ha realizado la compra 2024-09-30T10:33:15.775 9981494829 28
+2024-09-30 10:33:34,821 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  2024-09-30T10:33:34.821 9981494830
+2024-09-30 10:33:34,860 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.MovistarController - Se realizo la compra del paquete 2024-09-30T10:33:34.860 9981494830 29
+2024-09-30 10:33:48,622 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 10:33:51,600 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 10:34:40,395 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra 2024-09-30T10:34:40.395 9981494826
+2024-09-30 10:34:40,460 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.ATNTController - Se ha realizado la compra 2024-09-30T10:34:40.460 9981494826 30
+2024-09-30 10:34:46,564 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 10:34:49,076 [http-nio-8090-exec-8] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 10:34:59,608 [http-nio-8090-exec-6] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 11:12:06,779 [http-nio-8090-exec-6] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:12:06.778Numero Telefono: 99814948288
+2024-09-30 11:12:06,925 [http-nio-8090-exec-6] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T11:12:06.925Numero Telefono: 99814948288Id transaccion: 31
+2024-09-30 11:13:07,409 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:13:07.408Numero Telefono: 99814948288
+2024-09-30 11:13:07,421 [http-nio-8090-exec-7] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T11:13:07.421Numero Telefono: 99814948288Error: Paquete no encontrado
+2024-09-30 11:15:55,123 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:15:55.123 Numero Telefono: 99814948288
+2024-09-30 11:15:55,219 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T11:15:55.219 Numero Telefono: 99814948288 Error: Paquete no encontrado
+2024-09-30 11:16:34,996 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:16:34.996 Numero Telefono: 99814948288
+2024-09-30 11:16:35,056 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T11:16:35.056 Numero Telefono: 99814948288 Id transaccion: 32
+2024-09-30 11:19:30,785 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:19:30.785 Numero Telefono: 99814948288
+2024-09-30 11:19:30,836 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T11:19:30.836 Numero Telefono: 99814948288 Error: Ya existe la compra de ese paquete en menos de 15 minutos
+2024-09-30 11:19:52,777 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:19:52.777 Numero Telefono: 9981494828
+2024-09-30 11:19:52,854 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T11:19:52.854 Numero Telefono: 9981494828 Id transaccion: 33
+2024-09-30 11:21:46,841 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:21:46.841 Numero Telefono: 9981494829
+2024-09-30 11:23:56,535 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T11:23:56.535 Numero Telefono: 9981494829 Id transaccion: 34
+2024-09-30 11:34:25,704 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:34:25.702 Numero Telefono: 9981494829
+2024-09-30 11:34:51,510 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T11:34:51.505 Numero Telefono: 9981494829 Error: Ya existe la compra de ese paquete en menos de 15 minutos
+2024-09-30 11:35:29,684 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:35:29.684 Numero Telefono: 9981494828
+2024-09-30 11:36:07,328 [http-nio-8090-exec-3] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T11:36:07.325 Numero Telefono: 9981494828 Error: Paquete no encontrado
+2024-09-30 11:39:52,113 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:39:52.113 Numero Telefono: 9981494828
+2024-09-30 11:39:58,727 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T11:39:58.727 Numero Telefono: 9981494828 Error: Paquete no encontrado
+2024-09-30 11:53:34,875 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T11:53:34.874 Numero Telefono: 9981494828
+2024-09-30 11:54:41,943 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T11:54:41.942 Numero Telefono: 9981494828 Id transaccion: 35
+2024-09-30 11:57:06,806 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 11:57:38,660 [http-nio-8090-exec-6] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 11:58:58,070 [http-nio-8090-exec-9] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 12:08:29,168 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-09-30T12:08:29.165 Numero Telefonico: 9981494828
+2024-09-30 12:08:51,662 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.MovistarController - Se realizo la compra del paquete Fecha: 2024-09-30T12:08:51.659 Numero Telefonico: 9981494828 Id Transaccion: 36
+2024-09-30 12:09:43,681 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-09-30T12:09:43.678 Numero Telefonico: 9981494829
+2024-09-30 12:09:50,208 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.MovistarController - Hubo un error al realizar la compra Fecha: 2024-09-30T12:09:50.208 Numero Telefonico: 9981494829 Error: No existe ningun paquete
+2024-09-30 12:12:20,739 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-09-30T12:12:20.737 Numero Telefonico: 9981494829
+2024-09-30 12:12:41,956 [http-nio-8090-exec-3] ERROR com.ApplicationTest.Controller.MovistarController - Hubo un error al realizar la compra Fecha: 2024-09-30T12:12:41.956 Numero Telefonico: 9981494829 Error: No existe ningun paquete
+2024-09-30 12:14:47,971 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-09-30T12:14:47.965 Numero Telefonico: 9981494829
+2024-09-30 12:14:55,108 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.MovistarController - Hubo un error al realizar la compra Fecha: 2024-09-30T12:14:55.108 Numero Telefonico: 9981494829 Error: No existe ese paquete
+2024-09-30 12:17:01,158 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-09-30T12:17:01.155 Numero Telefonico: 9981494829
+2024-09-30 12:17:03,763 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.MovistarController - Se realizo la compra del paquete Fecha: 2024-09-30T12:17:03.759 Numero Telefonico: 9981494829 Id Transaccion: 37
+2024-09-30 12:20:24,599 [http-nio-8090-exec-8] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra Fecha: 2024-09-30T12:20:24.599 Numero Telefonico: 9981494828
+2024-09-30 12:20:24,610 [http-nio-8090-exec-8] ERROR com.ApplicationTest.Controller.ATNTController - No se puedo realizar la compra Fecha: 2024-09-30T12:20:24.610 Numero Telefonico: 9981494828 Error: No existe ese paquete
+2024-09-30 12:32:53,174 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra Fecha: 2024-09-30T12:32:53.172 Numero Telefonico: 9981494828
+2024-09-30 12:32:57,626 [http-nio-8090-exec-7] ERROR com.ApplicationTest.Controller.ATNTController - No se puedo realizar la compra Fecha: 2024-09-30T12:32:57.625 Numero Telefonico: 9981494828 Error: Solo numeros de 10 digitos
+2024-09-30 12:33:44,791 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra Fecha: 2024-09-30T12:33:44.788 Numero Telefonico: 9981494828
+2024-09-30 12:33:46,955 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.ATNTController - Se ha realizado la compra Fecha: 2024-09-30T12:33:46.953 Numero Telefonico: 9981494828 Id Transaccion: 38
+2024-09-30 12:34:33,901 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra Fecha: 2024-09-30T12:34:33.901 Numero Telefonico: 9981494828
+2024-09-30 12:34:33,905 [http-nio-8090-exec-2] ERROR com.ApplicationTest.Controller.ATNTController - No se puedo realizar la compra Fecha: 2024-09-30T12:34:33.905 Numero Telefonico: 9981494828 Error: Ya existe una compra con el mismo número y el mismo paquete. Por favor, espera 15 minutos.
+2024-09-30 12:35:35,540 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 12:36:28,961 [http-nio-8090-exec-10] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 12:36:48,546 [http-nio-8090-exec-8] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 12:37:00,564 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 13:56:11,528 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T13:56:11.527 Numero Telefono: 99814948289
+2024-09-30 13:56:32,611 [http-nio-8090-exec-4] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T13:56:32.606 Numero Telefono: 99814948289 Error: El correo electronico no es valido
+2024-09-30 13:57:41,442 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T13:57:41.442 Numero Telefono: 99814948289
+2024-09-30 14:02:24,980 [http-nio-8090-exec-2] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T14:02:24.979 Numero Telefono: 99814948289 Error: El correo electronico no es valido
+2024-09-30 14:02:54,604 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T14:02:54.604 Numero Telefono: 99814948289
+2024-09-30 14:03:03,667 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T14:03:03.667 Numero Telefono: 99814948289 Error: El número telefonico debe ser de 10 digitos
+2024-09-30 14:03:52,334 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T14:03:52.334 Numero Telefono: 9981494828
+2024-09-30 14:04:19,031 [http-nio-8090-exec-2] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T14:04:19.026 Numero Telefono: 9981494828 Error: Datos no validos
+2024-09-30 14:13:32,023 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T14:13:32.023 Numero Telefono: 9981494828
+2024-09-30 14:20:03,069 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T14:20:03.069 Numero Telefono: 9981494828 Error: Datos no validos
+2024-09-30 14:20:24,033 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T14:20:24.032 Numero Telefono: 9981494828
+2024-09-30 15:27:29,460 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T15:27:29.460 Numero Telefono: 9981494828 Error: Datos no validos
+2024-09-30 15:27:44,104 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T15:27:44.104 Numero Telefono: 9981494828
+2024-09-30 15:28:02,864 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T15:28:02.861 Numero Telefono: 9981494828 Error: Datos no validos
+2024-09-30 15:38:12,430 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T15:38:12.430 Numero Telefono: 9981494828
+2024-09-30 15:40:11,847 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T15:40:11.847 Numero Telefono: 9981494828 Error: Datos no validos
+2024-09-30 15:40:25,011 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T15:40:25.010 Numero Telefono: 9981494828
+2024-09-30 15:41:06,990 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T15:41:06.989 Numero Telefono: 9981494828 Error: Datos no validos
+2024-09-30 15:41:42,891 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T15:41:42.891 Numero Telefono: 9981494828
+2024-09-30 15:44:31,793 [http-nio-8090-exec-2] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T15:44:31.793 Numero Telefono: 9981494828 Error: Datos no validos
+2024-09-30 16:19:20,476 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:19:20.476 Numero Telefono: 9981494828
+2024-09-30 16:21:21,917 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T16:21:21.917 Numero Telefono: 9981494828 Id transaccion: 39
+2024-09-30 16:25:10,071 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:25:10.071 Numero Telefono: 998149482856
+2024-09-30 16:25:39,048 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T16:25:39.048 Numero Telefono: 998149482856 Error: El número telefonico debe ser de 10 digitos
+2024-09-30 16:33:16,767 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:33:16.767 Numero Telefono: 9981494828562
+2024-09-30 16:34:22,958 [http-nio-8090-exec-2] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T16:34:22.957 Numero Telefono: 9981494828562 Error: El número telefonico debe ser de 10 digitos
+2024-09-30 16:35:31,657 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:35:31.657 Numero Telefono: 9981494828
+2024-09-30 16:36:01,513 [http-nio-8090-exec-3] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T16:36:01.510 Numero Telefono: 9981494828 Error: El codigo postal es obligatorio
+2024-09-30 16:36:43,245 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:36:43.245 Numero Telefono: 9981494828
+2024-09-30 16:37:07,054 [http-nio-8090-exec-4] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T16:37:07.052 Numero Telefono: 9981494828 Error: El correo electronico no es valido
+2024-09-30 16:38:00,888 [http-nio-8090-exec-5] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:38:00.888 Numero Telefono: 9981494828
+2024-09-30 16:38:10,226 [http-nio-8090-exec-5] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T16:38:10.226 Numero Telefono: 9981494828 Id transaccion: 40
+2024-09-30 16:54:40,821 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:54:40.821 Numero Telefono: 99814948289
+2024-09-30 16:55:21,352 [http-nio-8090-exec-2] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-09-30T16:55:21.352 Numero Telefono: 99814948289 Error: El número telefonico debe ser de 10 digitos
+2024-09-30 16:55:57,469 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-09-30T16:55:57.469 Numero Telefono: 9981494828
+2024-09-30 16:58:07,755 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-09-30T16:58:07.755 Numero Telefono: 9981494828 Id transaccion: 41
+2024-09-30 17:29:21,520 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-09-30T17:29:21.520 Numero Telefonico: 9981494828
+2024-09-30 17:29:59,397 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.MovistarController - Se realizo la compra del paquete Fecha: 2024-09-30T17:29:59.397 Numero Telefonico: 9981494828 Id Transaccion: 42
+2024-09-30 17:30:31,196 [http-nio-8090-exec-2] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-09-30T17:30:31.196 Numero Telefonico: 9981494828
+2024-09-30 17:30:37,859 [http-nio-8090-exec-2] ERROR com.ApplicationTest.Controller.MovistarController - Hubo un error al realizar la compra Fecha: 2024-09-30T17:30:37.859 Numero Telefonico: 9981494828 Error: Ya existe una compra con el mismo número y el mismo paquete. Por favor, espera 15 minutos.
+2024-09-30 17:31:47,016 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra Fecha: 2024-09-30T17:31:47.016 Numero Telefonico: 9981494828
+2024-09-30 17:33:33,142 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.ATNTController - Se ha realizado la compra Fecha: 2024-09-30T17:33:33.142 Numero Telefonico: 9981494828 Id Transaccion: 43
+2024-09-30 17:34:05,754 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.ATNTController - Empezara el proceso de compra Fecha: 2024-09-30T17:34:05.754 Numero Telefonico: 9981494828
+2024-09-30 17:34:32,528 [http-nio-8090-exec-4] ERROR com.ApplicationTest.Controller.ATNTController - No se puedo realizar la compra Fecha: 2024-09-30T17:34:32.528 Numero Telefonico: 9981494828 Error: El correo electronico no es valido
+2024-09-30 17:35:41,440 [http-nio-8090-exec-6] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 17:35:46,371 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-09-30 17:35:57,573 [http-nio-8090-exec-8] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-10-01 11:55:42,926 [http-nio-8090-exec-10] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-10-01T11:55:42.926 Numero Telefono: 9981494828
+2024-10-01 11:55:43,000 [http-nio-8090-exec-10] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-10-01T11:55:43 Numero Telefono: 9981494828 Id transaccion: 8
+2024-10-01 11:57:15,900 [http-nio-8090-exec-7] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-10-01T11:57:15.900 Numero Telefono: 9981494828
+2024-10-01 11:57:15,902 [http-nio-8090-exec-7] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-10-01T11:57:15.902 Numero Telefono: 9981494828 Error: Ya existe una compra con el mismo número y el mismo paquete. Por favor, espera 15 minutos.
+2024-10-01 11:57:56,388 [http-nio-8090-exec-9] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-10-01T11:57:56.388 Numero Telefono: 99814948299
+2024-10-01 11:57:56,388 [http-nio-8090-exec-9] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-10-01T11:57:56.388 Numero Telefono: 99814948299 Error: El número telefonico debe ser de 10 digitos
+2024-10-01 11:58:44,685 [http-nio-8090-exec-1] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-10-01T11:58:44.685 Numero Telefono: 9981494829
+2024-10-01 11:58:44,685 [http-nio-8090-exec-1] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-10-01T11:58:44.685 Numero Telefono: 9981494829 Error: La tarjeta debe ser de 16 digitos
+2024-10-01 11:59:09,542 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-10-01T11:59:09.542 Numero Telefono: 9981494829
+2024-10-01 11:59:09,542 [http-nio-8090-exec-3] ERROR com.ApplicationTest.Controller.TelcelController - Error durante el proceso de compra: Fecha: 2024-10-01T11:59:09.542 Numero Telefono: 9981494829 Error: El correo electronico no es valido
+2024-10-01 11:59:25,582 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.TelcelController - Inicia el proceso de hacer la recargaFecha: 2024-10-01T11:59:25.582 Numero Telefono: 9981494829
+2024-10-01 11:59:25,592 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.TelcelController - Se ha completado la compraFecha: 2024-10-01T11:59:25.592 Numero Telefono: 9981494829 Id transaccion: 9
+2024-10-01 12:02:55,749 [http-nio-8090-exec-3] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-10-01T12:02:55.748 Numero Telefonico: 9981494828
+2024-10-01 12:02:55,796 [http-nio-8090-exec-3] ERROR com.ApplicationTest.Controller.MovistarController - Hubo un error al realizar la compra Fecha: 2024-10-01T12:02:55.796 Numero Telefonico: 9981494828 Error: No existe ese paquete
+2024-10-01 12:03:14,358 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.MovistarController - Se esta iniciando el proceso de hacer la recarga  Fecha: 2024-10-01T12:03:14.358 Numero Telefonico: 9981494828
+2024-10-01 12:03:14,413 [http-nio-8090-exec-4] INFO  com.ApplicationTest.Controller.MovistarController - Se realizo la compra del paquete Fecha: 2024-10-01T12:03:14.413 Numero Telefonico: 9981494828 Id Transaccion: 10
+2024-10-01 12:03:49,953 [http-nio-8090-exec-5] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-10-01 12:04:08,243 [http-nio-8090-exec-6] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
+2024-10-01 12:04:20,008 [http-nio-8090-exec-8] INFO  com.ApplicationTest.Controller.ReportesController - Se ha generado el reporte.
